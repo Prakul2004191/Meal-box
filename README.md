@@ -8,4 +8,4 @@
 - Proceed to payment
 - Website fully responsive
 
-<img src='./screenshots/5.png'>
+
